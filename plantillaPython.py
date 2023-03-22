@@ -1,7 +1,21 @@
+"""
+Título del archivo
+
+Breve descripción del archivo.
+
+Autor: Tu nombre
+Fecha de creación: Fecha de creación del archivo
+"""
+
+# Importaciones estandar
+# Importaciones de terceros
+# Importaciones locales
 
 def nombre_funcion(argumento1, argumento2):
     """
-    Documentación de la función
+    Descripción breve de la función.
+
+    Descripción detallada de la función.
 
     :param argumento1: Descripción del argumento 1
     :type argumento1: Tipo del argumento 1
@@ -22,7 +36,7 @@ class NombreClase:
         """
         Documentación del constructor
 
-        :param argumento1: Descripción del argumento 1
+        :param argumento1: Descripción del argumento_1
         :type argumento1: Tipo del argumento 1
         :param argumento2: Descripción del argumento 2
         :type argumento2: Tipo del argumento 2
@@ -42,3 +56,6 @@ class NombreClase:
         """
         # Código del método
         return resultado
+
+# Código principal aquí
+
