@@ -32,3 +32,21 @@ Param(
 )
 
 # Código del script
+/**
+ * Breve descripción de lo que hace la función.
+ *
+ * Detallada descripción de lo que hace la función.
+ *
+ * @param {tipo de dato} nombreVariable - Descripción de la variable.
+ * @param {tipo de dato} nombreVariable - Descripción de la variable (opcional).
+ *
+ * @return {tipo de dato} Descripción del valor de retorno.
+ *
+ * @throws {tipo de excepción} Descripción de la excepción que puede lanzar la función.
+ */
+function Nombre-Funcion {
+    [CmdletBinding()]
+    param(
+        [Parameter(Mandatory=$true)]
+        [string]$NombreParametro
+    )
