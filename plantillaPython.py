@@ -13,9 +13,9 @@ Fecha de creación: Fecha de creación del archivo
 
 def nombre_funcion(argumento1, argumento2):
     """
-    Descripción breve de la función.
+    Que hace la función (corto).
 
-    Descripción detallada de la función.
+    Que hace la función (detallado).
 
     :param argumento1: Descripción del argumento 1
     :type argumento1: Tipo del argumento 1
