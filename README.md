@@ -12,13 +12,13 @@ Este comentario deberá cumplir con los siguientes puntos.
 
 A este de comentario los conoceremos como docstring (documentation string)
 
-Python almacena el docstring en el atributo \__doc\__ del objeto. Por ejemplo en el atributo __doc__ de la función (En Python todo es un objeto).
+Python almacena el docstring en el atributo ``__doc__`` del objeto. Por ejemplo en el atributo ``__doc__`` de la función (En Python todo es un objeto).
 
 Podemos acceder a la documentación de 2 formas diferentes.
 
 Ya sea accediendo directamente al atributo.
 
-'''
+~~~
 nombreobjetoofuncion.__doc__
 help(nombreobjetoofuncion)
-'''
+~~~
